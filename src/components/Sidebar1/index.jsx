@@ -9,7 +9,7 @@ const Sidebar1 = (props) => {
     <>
       <Sidebar className={props.className}>
         <div className="flex flex-col gap-2 items-start justify-start mt-7 w-auto md:w-full">
-          <div className="cursor-pointer flex flex-col h-10 items-start justify-start px-4 shadow-bs1 w-[220px] md:w-full">
+          <div className="cursor-pointer flex flex-col h-10 items-start justify-start px-4 shadow-bs1 w-[221px] md:w-full">
             <div className="flex flex-col items-start justify-start pr-2 py-2 w-full">
               <div className="flex flex-row gap-2 items-center justify-start w-auto">
                 <Img
